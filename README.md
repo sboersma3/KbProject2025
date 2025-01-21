@@ -45,6 +45,13 @@ Q_ib_charge, heat flow rate from water/ice to  brine in ice bank |
 Q_ib_discharge, heat flow rate from liquid refrigerant to  water/ice in ice bank |
 Pel_AC, electric power uptake from AC power grid |
  
+$d(t)$|$u(t)$
+---|---
+ambient temperature | fraction of compressor capacity [0,1]
+elektrisch vermogen opgewekt door PV panelen | fraction of icebank charging capacity used [0,1]
+prijs voor afname van electriciteit uit het net | fraction of icebank discharging capacity used [0,1]
+prijs voor levering van electriciteit aan het net |
+
  
 ## Optimal Control
 
