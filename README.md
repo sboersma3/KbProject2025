@@ -29,7 +29,8 @@ $t \in \mathbb{R},k \in \mathbb{Z}$|continuous, discrete time
 
 The data that is generated with the model can be used to test hypothesis, before using real data. The meaning of the variables is defined below.
 
-
+$x(t)$|$y(t)$|$u(t)$|$d(t)$
+---|---|---|---
 
 ## Optimal Control
 
